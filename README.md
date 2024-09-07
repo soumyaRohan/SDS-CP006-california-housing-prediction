@@ -16,6 +16,8 @@ What specific questions will this project answer or what insights will it provid
 
 The model will help real estate agents and buyers by providing accurate price predictions and identifying critical price-driving features. This can improve market decision-making.
 
+**Link to Dataset:** https://www.kaggle.com/datasets/yellowj4acket/real-estate-california
+
 ## Project Phases
 **Data Cleaning & Analysis**
 - Handling null values (e.g. imputation, deletion). 
